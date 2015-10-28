@@ -141,9 +141,13 @@ module.exports = {
   createThemesMenu: function(keep) {
     var menu = new gui.Menu();
     var THEMES = {
-      'default': 'Default',
-      'mosaic': 'Mosaic',
-      'dark': 'Dark'
+      'Default': 'Default',
+      'Blue': 'blueskinRTL',
+      'Dark Simple': 'darkSimple',
+      'Dark':'darkSkin',
+      'Fluttery':'fluttery',
+      'Light':'lightSkin',
+      'Minimalism':'minimalism'
     };
 
     Object.keys(THEMES).forEach(function(key) {
