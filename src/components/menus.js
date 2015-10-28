@@ -80,6 +80,9 @@ module.exports = {
         });
       }
     }, {
+	label: 'Theme',
+	submenu: this.createThemesMenu(keep)
+    }, {
       type: 'checkbox',
       label: 'Check for Update on Launch',
       setting: 'checkUpdateOnLaunch'
