@@ -1,4 +1,4 @@
-@-moz-document url-prefix("https://web.whatsapp.com/") {
+
 header.pane-header {background-color: #607d8b !important;}
 #wrapper:before {background-color: #5b5b5b !important;}
 body{background-image: -webkit-linear-gradient(top,#ebebeb,#ebebeb) !important;font-family: 'Roboto Light',sans-serif !important;}
@@ -1606,4 +1606,3 @@ a.button.button-contact {color: rgb(137, 137, 137) !important;}
 .emojiordered1154{background-position:-620px -660px !important}
 .emojiordered1155{background-position:-640px -660px !important}
 .emojiordered1156{background-position:-660px -660px !important}
-}

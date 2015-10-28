@@ -1,4 +1,4 @@
-@-moz-document url-prefix("https://web.whatsapp.com/") {
+
 header.pane-header {
   background-color: #2d2d2d !important;
 }
@@ -1787,4 +1787,3 @@ a.button.button-contact {
 .emojiordered1154{background-position:-620px -660px !important}
 .emojiordered1155{background-position:-640px -660px !important}
 .emojiordered1156{background-position:-660px -660px !important}
-}

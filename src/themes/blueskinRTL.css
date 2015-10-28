@@ -7,7 +7,6 @@
 || #################################################################### ||
 \*=====================================================================**/ 
 
-@-moz-document domain('web.whatsapp.com') {
      body {
     background-image: url("http://misanweb.com/files/poly.png");
           background-color: #DDDBDB;
@@ -64,6 +63,3 @@
 .pane-header{
   background-color: #2FB1D8;
 }
-
-}
-  

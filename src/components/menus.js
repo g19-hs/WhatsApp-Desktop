@@ -141,13 +141,13 @@ module.exports = {
   createThemesMenu: function(keep) {
     var menu = new gui.Menu();
     var THEMES = {
-      'Default': 'Default',
-      'Blue': 'blueskinRTL',
-      'Dark Simple': 'darkSimple',
-      'Dark':'darkSkin',
-      'Fluttery':'fluttery',
-      'Light':'lightSkin',
-      'Minimalism':'minimalism'
+        'Default': 'Default',
+        'blueskinRTL': 'Blue',
+        'darkSimple': 'Dark Simple',
+        'darkSkin': 'Dark',
+        'fluttery': 'Fluttery',
+        'lightSkin': 'Light',
+        'minimalism': 'Minimalism'
     };
 
     Object.keys(THEMES).forEach(function(key) {

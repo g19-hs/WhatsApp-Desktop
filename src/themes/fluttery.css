@@ -1,4 +1,4 @@
-@-moz-document domain("web.whatsapp.com") {
+
 body {
     background-color: #FFF46D;
     background-image: linear-gradient(to bottom,#FFF46D,#FFF46D);
@@ -120,5 +120,4 @@ input {
 }
 .pane-intro:after {
     border-top: 6px solid #DD71AF;
-}
 }
