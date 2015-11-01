@@ -1,3 +1,5 @@
+/* The file is taken as it is from https://github.com/Aluxian/Facebook-Messenger-Desktop/blob/master/src/components/themer.js */
+
 var settings = require('./settings');
 var fs = require('fs');
 

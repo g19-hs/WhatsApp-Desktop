@@ -52,7 +52,7 @@ windowBehaviour.setNewWinPolicy(win);
 // Inject logic into the app when it's loaded
 var iframe = document.querySelector('iframe');
 iframe.onload = function() {
-  // Load the theming module
+  // apply themes
   themer.apply(iframe.contentDocument);
 
   // Inject a callback in the notification API
