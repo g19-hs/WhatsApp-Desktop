@@ -142,11 +142,8 @@ module.exports = {
     var menu = new gui.Menu();
     var THEMES = {
         'Default': 'Default',
-        'blueskinRTL': 'Blue',
         'darkSimple': 'Dark Simple',
-        'darkSkin': 'Dark',
         'fluttery': 'Fluttery',
-        'lightSkin': 'Light',
         'minimalism': 'Minimalism'
     };
 
